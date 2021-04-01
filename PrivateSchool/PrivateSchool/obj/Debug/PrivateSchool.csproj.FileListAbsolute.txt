@@ -1,0 +1,13 @@
+C:\Users\karab\source\repos\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.exe.config
+C:\Users\karab\source\repos\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.exe
+C:\Users\karab\source\repos\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.pdb
+C:\Users\karab\source\repos\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.csprojAssemblyReference.cache
+C:\Users\karab\source\repos\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.exe
+C:\Users\karab\source\repos\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.pdb
+C:\Users\konstantinos.takakis\OneDrive - PeopleCert Network\Desktop\IndividualProject\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.exe.config
+C:\Users\konstantinos.takakis\OneDrive - PeopleCert Network\Desktop\IndividualProject\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.exe
+C:\Users\konstantinos.takakis\OneDrive - PeopleCert Network\Desktop\IndividualProject\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.pdb
+C:\Users\konstantinos.takakis\OneDrive - PeopleCert Network\Desktop\IndividualProject\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.csprojAssemblyReference.cache
+C:\Users\konstantinos.takakis\OneDrive - PeopleCert Network\Desktop\IndividualProject\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.csproj.CoreCompileInputs.cache
+C:\Users\konstantinos.takakis\OneDrive - PeopleCert Network\Desktop\IndividualProject\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.exe
+C:\Users\konstantinos.takakis\OneDrive - PeopleCert Network\Desktop\IndividualProject\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.pdb
